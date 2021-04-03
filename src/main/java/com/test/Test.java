@@ -3,8 +3,8 @@ package com.test;
 import javax.net.ssl.SSLContext;
 
 public class Test {
-    public static final String S = "";
-    public final String ss = "";
+    public static final String S = "1";
+    public final String ss = "1";
 
     static {
         System.setProperty("file.encoding", "UTF-8");
