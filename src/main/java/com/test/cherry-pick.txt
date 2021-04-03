@@ -1,9 +1,5 @@
 test1
 test2
 test3
-<<<<<<< Upstream, based on origin/master
 test4
 test10
-=======
-test10
->>>>>>> 306d203 cherrypick2
